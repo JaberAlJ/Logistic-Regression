@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Project Overview
+## 1. Repository Overview
 
 This repository implements a Logistic Regression model to predict diabetes based on patient medical data. The goal is to analyze, preprocess, and model the data using scikit-learn, and evaluate the performance of the model.
 
